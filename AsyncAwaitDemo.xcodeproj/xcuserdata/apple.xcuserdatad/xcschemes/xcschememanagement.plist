@@ -9,6 +9,34 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>AsyncAwaitDemoWithTests.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>AsyncAwaitDemoWithTestsTests.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>18F8EA1B296D0546000CC12A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>18F8EA31296D0548000CC12A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>18F8EA3B296D0548000CC12A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 	</dict>
 </dict>
 </plist>
